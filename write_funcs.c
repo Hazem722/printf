@@ -3,7 +3,7 @@
 
 /**
  * _putchar - ...
- * @c:
+ * @c: .....
  * Return: 1 (Success)
  */
 int _putchar(char c)
