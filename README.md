@@ -424,11 +424,11 @@ Handle the following flag characters for non-custom conversion specifiers:
 
 
 
-* +
+* \+
 
 * space
 
-* #
+* \#
 
 
 
@@ -512,6 +512,6 @@ All the above options work well together.
 
 * HAZEM BEN ABDALLAH - [hazemba684@gmail.com](https://github.com/Hazem722)
 
-* Ivan Epou - [ivanepou92@gmail.com](https://github.com/ivanepou22)
+* IVAN EPOU - [ivanepou92@gmail.com](https://github.com/ivanepou22)
 
 
