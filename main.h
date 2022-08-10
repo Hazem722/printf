@@ -60,6 +60,12 @@ int (*get_print(char s))(va_list, flags_t *);
 /* get_flag */
 int get_flag(char s, flags_t *f);
 
+/* get_width */
+int get_width(const char *format, int *i, va_list list);
+/* get_precision */
+int get_precision(const char *format, int *i, va_list list);
+/* get_length */
+int get_size(const char *format, int *i);
 
 /* print_alpha */
 int print_string(va_list l, flags_t *f);
